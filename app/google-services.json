@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "578987145865",
+    "firebase_url": "https://treasured-login-e0054.firebaseio.com",
+    "project_id": "treasured-login-e0054",
+    "storage_bucket": "treasured-login-e0054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578987145865:android:ac4d6893c0af563a486458",
+        "android_client_info": {
+          "package_name": "edu.miracostacollege.cs134.treasuredloginkelias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578987145865-enaa3rtpu2fcb7mljjqkg90e726rjbr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "hiddenAPIKey"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578987145865-enaa3rtpu2fcb7mljjqkg90e726rjbr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
